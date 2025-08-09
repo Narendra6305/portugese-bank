@@ -114,8 +114,6 @@ Update model using new data (e.g., different time periods, seasonal effects).
 
 Extend the model to multi-channel marketing data.
 
-📜 License
-This project is open-source under the MIT License.
 
 🙏 Credits
 Based on public implementations (e.g., KaviM11) and the UCI Bank Marketing dataset 
